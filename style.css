@@ -3,7 +3,6 @@ h1{
     font-weight: bold;
     font-size: large;
 }
-
 .sidebar{
     /* Sidebar navigation */
 
@@ -35,7 +34,6 @@ align-self: stretch;
 flex-grow: 0;
     
 }
-
 .contentSidebar{
     box-sizing: border-box;
 
@@ -114,7 +112,6 @@ order: 1;
 align-self: stretch;
 flex-grow: 0;
 }
-
 .footer{
     display: flex;
 flex-direction: column;
@@ -244,7 +241,6 @@ order: 1;
 align-self: stretch;
 flex-grow: 0;
 }
-
 .navItemBase{
     display: flex;
 flex-direction: row;
@@ -388,7 +384,6 @@ order: 0;
 align-self: stretch;
 flex-grow: 0;
 }
-
 .main{
     display: flex;
     flex-direction: column;
@@ -442,7 +437,6 @@ align-self: stretch;
 flex-grow: 0;
 margin: -40px 0px;
 }
-
 .headerContainer{
    
 /* Auto layout */
@@ -790,9 +784,6 @@ order: 1;
 align-self: stretch;
 flex-grow: 0;
 }
-
-
-
 .containerUploadFiles{
     display: flex;
     flex-direction: row;
@@ -807,7 +798,6 @@ font-weight: 1500;
 font-size: 15px;
 line-height: 20px;
 }
-
 .imageBox{
 background: #FFFFFF;
 border: 1px solid #D0D5DD;
@@ -830,9 +820,6 @@ align-items: center;
     height: 64px;
 
 }
-
-
-
 .buttonContainer{
     display: flex;
 flex-direction: row;
@@ -1019,7 +1006,6 @@ order: 1;
 align-self: stretch;
 flex-grow: 1;
 }
-
 .toggleContainer{
     display: flex;
     flex-direction: row;
